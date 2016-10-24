@@ -1,0 +1,87 @@
+Re
+
+General Information| Details
+---|---
+`Vendor requires FE?`| Yes/No
+`Price before shipping:`| $PRICE
+`Shipping cost`:| $PRICE
+`Vendor Name:` | VENDORNAME
+`Marketplace:` | MARKETNAME
+`Products reviewed:` | "LISTINGNAME"
+`International Shipping?` | Yes/No
+`Pictures:` | http://i.imgur.com/7.jpg
+&nbsp; | http://i.imgur.com/7v.jpg
+
+|
+
+|
+
+Customer Service|Description
+---|---
+`[ ]+5`|Superb - Polite, prompt, ensures satisfaction
+`[ ]+4`|Good - Professional, exhibits customer care
+`[ ]+3`|Satisfactory - Adequate responses, resolved issue
+`[ ]+2`|Marginal - Subpar communication, partial resolution
+`[ ]+1`|Bad - Poor communication, no resolution
+`[ ]+0`|Awful - Abusive responses, no resolution
+
+|
+
+|
+
+Product Quality|Description
+---|---
+`[ ]+5`|Highest purity - highly potent
+`[ ]+4`|Mostly pure - potent
+`[ ]+3`|Minor cut or impurity - strong
+`[ ]+2`|Cut and/or impure - medium to weak
+`[ ]+1`|Almost entirely cut - very weak
+`[ ]+0`|Possibly bunk - no effect
+
+|
+
+|
+
+Processing:|Description
+ ---|---
+`[ ]+5`|Processed &amp; marked shipped in 24hrs
+`[ ]+4`|Processed &amp; marked shipped in 48 hrs
+`[ ]+3`|Processed &amp; marked shipped in 72 hrs
+`[ ]+2`|Package is late
+`[ ]+1`|Package is very late
+`[ ]+0`|Never received package
+
+|
+
+|
+
+Price Value|Description
+---|---
+`[ ]+5`|Excellent - great value &amp; low cost
+`[ ]+4`|Moderate - worthy value &amp; fair cost
+`[ ]+3`|At-market - neither good nor bad
+`[ ]+2`|Below-market - so-so value, high cost
+`[ ]+1`|Exorbitant - low value, excessive cost
+`[ ]+0`|Rip-off - little-to-no value, unjustified cost
+
+|
+
+|
+
+OPSEC/Logistics | Description
+---|---
+`[ ]+1`|Single (but effecive) Vacuum-Seal
+`[ ]+2`|Multiple Layer Vacuum-Seal
+`[ ]+1`|Mylar and Visual Barrier
+`[ ]+1`|Decoy Utilized
+`[ ]+1`|Proper NETSEC/PGP
+
+|
+
+**TOTAL:** CALCULATE-PERCENTAGE% / 100%
+
+|
+___
+**Summary/Narrative:** Write up the review here, include elaborate information that people will want to know, so they don't flame you for not giving it in the first place. Like "Pics or gtfo"....or Shill.
+
+**tl;dr** - Twitter style tl;dr....make ir quick for the "lazy"
